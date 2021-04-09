@@ -6,10 +6,11 @@ function addSongWindow:Constructor()
 	self:SetText("Add Song");
 	self:SetVisible(false);
 	self:SetWantsKeyEvents(true);
-	self:SetSize(300, 300);
+	self:SetSize(400, 300);
 	self:SetPosition(0, 0);
 	self:SetZOrder(1000);
 	self.KeyDown = function(sender,args)
+		-- Check if escape was pressed
 		if (args.Action == 145) then
 			self:SetVisible(false);
 		end
@@ -20,13 +21,13 @@ function addSongWindow:Constructor()
 	self.songNameLabel:SetParent(self);
 	self.songNameLabel:SetText("Song name");
 	self.songNameLabel:SetSize(200, 30);
-	self.songNameLabel:SetPosition(30, 50);
+	self.songNameLabel:SetPosition(50, 50);
 
 	-- Song Name textbox --
 	self.songNameInput = Turbine.UI.TextBox();
 	self.songNameInput:SetParent(self);
-	self.songNameInput:SetSize(240, 20);
-	self.songNameInput:SetPosition(30, 70);
+	self.songNameInput:SetSize(260, 20);
+	self.songNameInput:SetPosition(50, 70);
 	self.songNameInput:SetMultiline(false);
 	self.songNameInput:SetTextAlignment(Turbine.UI.ContentAlignment.LeftCenter);
 	self.songNameInput:SetFont(Turbine.UI.Lotro.Font.Verdana18);
@@ -38,13 +39,13 @@ function addSongWindow:Constructor()
 	self.fileNameLabel:SetParent(self);
 	self.fileNameLabel:SetText("File name");
 	self.fileNameLabel:SetSize(200, 30);
-	self.fileNameLabel:SetPosition(30, 110);
+	self.fileNameLabel:SetPosition(50, 110);
 
 	-- File Name textbox --
 	self.fileNameInput = Turbine.UI.TextBox();
 	self.fileNameInput:SetParent(self);
-	self.fileNameInput:SetSize(240, 20);
-	self.fileNameInput:SetPosition(30, 130);
+	self.fileNameInput:SetSize(260, 20);
+	self.fileNameInput:SetPosition(50, 130);
 	self.fileNameInput:SetMultiline(false);
 	self.fileNameInput:SetTextAlignment(Turbine.UI.ContentAlignment.LeftCenter);
 	self.fileNameInput:SetFont(Turbine.UI.Lotro.Font.Verdana18);
@@ -56,26 +57,32 @@ function addSongWindow:Constructor()
 	self.instrumentLabel:SetParent(self);
 	self.instrumentLabel:SetText("Instrument");
 	self.instrumentLabel:SetSize(200, 30);
-	self.instrumentLabel:SetPosition(30, 170);
+	self.instrumentLabel:SetPosition(50, 170);
 
-	-- Instrument Name textbox --
-	self.instrumentInput = Turbine.UI.TextBox();
+	-- Instrument Name dropdown --
+	self.instrumentInput = SongManager.Utility.DropDownList();
 	self.instrumentInput:SetParent(self);
-	self.instrumentInput:SetSize(240, 20);
-	self.instrumentInput:SetPosition(30, 190);
-	self.instrumentInput:SetMultiline(false);
-	self.instrumentInput:SetTextAlignment(Turbine.UI.ContentAlignment.LeftCenter);
-	self.instrumentInput:SetFont(Turbine.UI.Lotro.Font.Verdana18);
-	self.instrumentInput:SetForeColor(Scripts.color["black"]);
-	self.instrumentInput:SetBackColor(Scripts.color["white"]);
+	self.instrumentInput:SetDropRows(4);
+	self.instrumentInput:SetSize(200, 20);
+	self.instrumentInput:SetPosition(50, 190);
+	self.instrumentInput:SetZOrder(1001);
+	self.instrumentInput:SetVisible(true);
+	self.instrumentInput:SetBackColor(Turbine.UI.Color(0, 0, 0));
+	self.instrumentInput:SetTextColor(Turbine.UI.Color(1, 1, 1));
+	self.instrumentInput:SetCurrentBackColor(Turbine.UI.Color(0, 0, 0));
+	self.instrumentInput:AddItem("Lute", "Lute");
+	self.instrumentInput:AddItem("Clarinet", "Clarinet");
+	self.instrumentInput:AddItem("Fiddle", "Fiddle");
+	self.instrumentInput:AddItem("Harp", "Harp");
 
 	-- Button to add Song --
-	self.addPlayerButton = Turbine.UI.Lotro.Button();
-	self.addPlayerButton:SetParent(self);
-	self.addPlayerButton:SetText("Add Song");
-	self.addPlayerButton:SetSize(120, 30);
-	self.addPlayerButton:SetPosition(30, 240);
-	self.addPlayerButton.Click = function( sender, args)
+	self.addSongButton = Turbine.UI.Lotro.Button();
+	self.addSongButton:SetParent(self);
+	self.addSongButton:SetText("Add Song");
+	self.addSongButton:SetSize(120, 30);
+	self.addSongButton:SetPosition(50, 240);
+	self.addSongButton.Click = function( sender, args)
+
 		-- Make sure song has a name --
 		if self.songNameInput:GetText() == "" then
 			feedbackLabel:SetForeColor(Scripts.color["red"]);
@@ -91,18 +98,50 @@ function addSongWindow:Constructor()
 		end
 
 		-- Make sure song doesn't already exists --
-		if Scripts.songLibrary[self.songNameInput:GetText()] ~= nil then
-			feedbackLabel:SetForeColor(Scripts.color["red"]);
-			feedbackLabel:SetText("Song " .. self.songNameInput:GetText() .. " already exists in the library");
-			return;
+		if (self.instrumentInput:GetValue() == "Lute") then
+
+			if Scripts.luteSongLibrary[self.songNameInput:GetText()] ~= nil then
+				feedbackLabel:SetForeColor(Scripts.color["red"]);
+				feedbackLabel:SetText("Song " .. self.songNameInput:GetText() .. " already exists in the library");
+				return;
+			end
+			Scripts.luteSongLibrary[self.songNameInput:GetText()] = self.fileNameInput:GetText();
+
+		elseif (self.instrumentInput:GetValue() == "Clarinet") then
+
+			if Scripts.clarinetSongLibrary[self.songNameInput:GetText()] ~= nil then
+				feedbackLabel:SetForeColor(Scripts.color["red"]);
+				feedbackLabel:SetText("Song " .. self.songNameInput:GetText() .. " already exists in the library");
+				return;
+			end
+			Scripts.clarinetSongLibrary[self.songNameInput:GetText()] = self.fileNameInput:GetText();
+
+		elseif (self.instrumentInput:GetValue() == "Fiddle") then
+
+			if Scripts.fiddleSongLibrary[self.songNameInput:GetText()] ~= nil then
+				feedbackLabel:SetForeColor(Scripts.color["red"]);
+				feedbackLabel:SetText("Song " .. self.songNameInput:GetText() .. " already exists in the library");
+				return;
+			end
+			Scripts.fiddleSongLibrary[self.songNameInput:GetText()] = self.fileNameInput:GetText();
+
+			
+		elseif (self.instrumentInput:GetValue() == "Harp") then
+
+			if Scripts.harpSongLibrary[self.songNameInput:GetText()] ~= nil then
+				feedbackLabel:SetForeColor(Scripts.color["red"]);
+				feedbackLabel:SetText("Song " .. self.songNameInput:GetText() .. " already exists in the library");
+				return;
+			end
+			Scripts.harpSongLibrary[self.songNameInput:GetText()] = self.fileNameInput:GetText();
+			
 		end
 
 		-- Update and save song library --
-		Scripts.songLibrary[self.songNameInput:GetText()] = self.fileNameInput:GetText();
 		Scripts.saveSongLibrary();
 
 		-- Add song to song select list --
-		Scripts.createSong(self.songNameInput:GetText(), self.fileNameInput:GetText());
+		Scripts.sortSongLibrary();
 
 		-- Give feedback to user --
 		feedbackLabel:SetForeColor(Scripts.color["green"]);
@@ -112,7 +151,6 @@ function addSongWindow:Constructor()
 		closeSideWindows();
 		self.songNameInput:SetText("");
 		self.fileNameInput:SetText("");
-		self.instrumentInput:SetText("");
 	end
 end
 

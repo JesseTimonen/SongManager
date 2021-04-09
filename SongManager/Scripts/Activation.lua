@@ -8,3 +8,7 @@ Plugins[pluginName].Unload = function()
 	saveSettings();
 	notification("Unactivated");
 end
+
+-- Load settings and song library --
+loadSettings();
+loadSongLibrary();

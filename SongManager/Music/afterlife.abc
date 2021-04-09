@@ -1,0 +1,141 @@
+%abc-2.1
+%%song-title       Afterlife
+%%song-composer    Perric
+%%song-duration    2:21
+%%abc-creator Maestro v2.4.1
+%%abc-version 2.1
+
+X: 1
+T: Afterlife (2:21) - Lute of Ages
+%%part-name Lute of Ages
+C: Perric
+M: 4/4
+Q: 80
+K: C maj
+
++mf+ [^C4-^c4-e4-] [C3-c3-e3] [Cc^d] |
+[^G,4-^G4-b4-] [G,3-G3-b3] [G,G^c] |
+[B,4-B4-^d4-] [B,3-B3-d3] [B,B^c] |
+[^F,4-^F4-^a4-] [F,3-F3-a3] [F,Fb] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+% Bar 10 (0:27)
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C4-^c4-e4-^g4-] [C3-c3-e3g3] [Ccg] |
+[^G,4-^G4-^d4-^g4-b4-] [G,3-G3-d3g3b3] [G,G^c] |
+[B,4-B4-^d4-^f4-b4-] [B,3-B3-d3f3b3] [B,Bb] |
+% Bar 20 (0:57)
+[^F,4-^F4-^c4-^f4-^a4-] [F,3-F3-c3f3a3] [F,Fb] |
+[^C/-^c/] [C/-e/] [C/-^g/] [C/-c/] [C/-e/] [C/-g/] [C/-c/] [C/-e/] [C/-g/] [C/-c/] [C/-e/] [C/-g/] [C/-c/] [C/-e/] [C/-g/] [C/c/] |
+[^G,/-^G/] [G,/-B/] [G,/-^d/] [G,/-G/] [G,/-B/] [G,/-d/] [G,/-G/] [G,/-B/] [G,/-d/] [G,/-G/] [G,/-B/] [G,/-d/] [G,/-^g/] [G,/-d/] [G,/-B/] [G,/G/] |
+[B,/-B/] [B,/-^d/] [B,/-^f/] [B,/-B/] [B,/-d/] [B,/-f/] [B,/-B/] [B,/-d/] [B,/-f/] [B,/-b/] [B,/-d/] [B,/-f/] [B,/-B/] [B,/-d/] [B,/-^F/] [B,/^D/] |
+[^F,/-^F/] [F,/-^A/] [F,/-^c/] [F,/-F/] [F,/-A/] [F,/-c/] [F,/-A/] [F,/-c/] [F,/-^f/] [F,/-^a/] [F,/-f/] [F,/-c/] [F,/-c/] [F,/-a/] [F,/-c/] [F,/f/] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+% Bar 30 (1:27)
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C2-^c2e2^g2] [Cce-g-] [C/-c/e/g/] [C/-c/-e/-g/-] [C/-c/e/g/] [C/c/e/-g/-] [C/-c/e/g/] [C/-c/e/g/] [C-c-eg] [Cc^d] |
+[^G,2-^G2-^d2^g2b2] [G,Gd-g-b-] [G,/-G/-d/g/b/] [G,/-G/-d/-g/-b/-] [G,/-G/-d/g/b/] [G,/G/d/-g/-b/-] [G,/-G/-d/g/b/] [G,/-G/-d/g/b/] [G,-G-dgb] [G,G^c] |
+[B,2-B2-^d2^f2b2] [B,Bd-f-b-] [B,/-B/-d/f/b/] [B,/-B/-d/-f/-b/-] [B,/-B/-d/f/b/] [B,/B/d/-f/-b/-] [B,/-B/-d/f/b/] [B,/-B/-d/f/b/] [B,-B-dfb] [B,B^c] |
+[^F,2-^F2-^c2^f2^a2] [F,Fc-f-a-] [F,/-F/-c/f/a/] [F,/-F/-c/-f/-a/-] [F,/-F/-c/f/a/] [F,/F/c/-f/-a/-] [F,/-F/-c/f/a/] [F,/-F/-c/f/a/] [F,-F-cfa] [F,Fb] |
+[^C^c-e-^g-] [c/e/g/] c// e// g// e// g// c// e// c// c// g// c// e// c// e// g// c// e// g// c// g// e// c// ^d |
+[^G,^G^d-^g-b-] [d/g/b/] g// b// d// b// d// g// b// g// g// d// g// b// g// b// d// g// b// d// g// d// g// d// ^c |
+[B,B^d-^f-b-] [d/f/b/] B// d// f// d// f// b// d// b// b// f// b// d// b// d// f// b// d// f// f// b// d// f// ^c |
+% Bar 40 (1:57)
+[^F,^F^c-^f-^a-] [c/f/a/] F// ^A// c// A// c// f// A// f// c// f// a// f// a// f// c// f// a// c// a// c// f// a// c/ f/ |
+[^C4-^G4-^c4-e4-^g4-] [C3-G3-c3-e3g3] [CGc^d] |
+[^G,4-^D4-^G4-^d4-^g4-b4-] [G,3-D3-G3-d3g3b3] [G,DG^c] |
+[B,4-^F4-B4-^d4-^f4-b4-] [B,3-F3-B3-d3f3b3] [B,FB^c] |
+[^F,4-^C4-^F4-^c4-^f4-^a4-] [F,3-C3-F3-c3f3a3] [F,CFb] |
+[^C4-^c4-e4-] [C3-c3e3] [C^g] |
+[^G,4-^g4-b4-] [G,3-g3b3] [G,/-b/] [G,/^c/] |
+[B,4-^d4-b4-] [B,3-d3b3] [B,b] |
+[^F,8^c8^f8^a8] |]
+
+
+X: 8
+T: Afterlife (2:21) - Drums
+%%part-name Drums
+C: Perric
+M: 4/4
+Q: 80
+K: C maj
+
+ |]
+
+
+X: 9
+T: Afterlife (2:21) - Bardic Fiddle
+%%part-name Bardic Fiddle
+C: Perric
+M: 4/4
+Q: 80
+K: C maj
+
++p+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^F/ ^A/ ^c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ F/ |
++mp+ ^c/ e/ ^g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ |
+% Bar 10 (0:27)
+^G/ B/ ^d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ G/ |
+B/ ^d/ ^f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ B/ |
+^F/ ^A/ ^c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ A/ c/ ^f/ ^a/ |
++mf+ ^c/ e/ ^g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ |
+^G/ B/ ^d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ ^g/ d/ B/ G/ |
+B/ ^d/ ^f/ B/ d/ f/ B/ d/ f/ b/ d/ f/ B/ d/ ^F/ ^D/ |
+^F/ ^A/ ^c/ A/ c/ ^f/ c/ f/ ^a/ f/ a/ c/ f/ c/ f/ c/ |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:57)
+z8 |
+^c/ e/ ^g/ c/ e/ ^a/ c/ e/ b/ c/ e/ a/ c/ e/ g/ c/ |
+^G/ B/ ^f/ G/ B/ ^g/ G/ B/ ^a/ G/ B/ g/ G/ B/ f/ G/ |
+B/ ^d/ e/ B/ d/ ^f/ B/ d/ ^g/ B/ d/ f/ B/ d/ e/ B/ |
+^F/ ^A/ ^c/ F/ A/ ^d/ F/ A/ e/ F/ A/ ^f/ F/ A/ ^a/ c/ |
+^c/ e/ ^g/ c/ e/ ^a/ c/ e/ b/ c/ e/ a/ c/ e/ g/ c/ |
+^G/ B/ ^f/ G/ B/ ^g/ G/ B/ ^a/ G/ B/ g/ G/ B/ f/ G/ |
+B/ ^d/ e/ B/ d/ ^f/ B/ d/ ^g/ B/ d/ f/ B/ d/ e/ B/ |
+^F/ ^A/ ^c/ F/ A/ ^d/ F/ A/ e/ F/ A/ ^f/ A/ c/ f/ c/ |
+^c/ e/ ^g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ ^d/ |
+% Bar 30 (1:27)
+^G/ B/ ^d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ ^c/ |
+B/ ^d/ ^f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ ^c/ |
+^F/ ^A/ ^c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ B/ |
+^c/ e/ ^g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ ^d/ |
+^G/ B/ ^d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ ^c/ |
+B/ ^d/ ^f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ B/ d/ f/ ^c/ |
+^F/ ^A/ ^c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ F/ A/ c/ B/ |
+^c/ e/ ^g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ e/ g/ c/ |
+^G/ B/ ^d/ G/ B/ d/ G/ B/ d/ G/ B/ d/ ^g/ d/ B/ G/ |
+B/ ^d/ ^f/ B/ d/ f/ B/ d/ b/ d/ f/ B/ d/ f/ B/ ^D/ |
+% Bar 40 (1:57)
+^F/ ^A/ ^c/ A/ c/ ^f/ c/ A/ F/ ^C/ ^A,/ C/ F/ c/ f/ c/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+

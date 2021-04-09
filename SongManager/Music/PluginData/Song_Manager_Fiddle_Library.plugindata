@@ -1,0 +1,7 @@
+return 
+{
+	["Phantom of the Opera"] = "phantom_of_the_opera",
+	["Flight of the Bumblebee"] = "flight_of_the_bumblebee",
+	["Mission Impossible"] = "mission_impossible",
+	["Family Guy"] = "family_guy"
+}

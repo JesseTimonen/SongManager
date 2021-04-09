@@ -1,0 +1,79 @@
+T: Freebird part 4 (lute) [melody]
+M:4/4
+Q:108
+L:1/8   
+K:G
+[G2B2d2] D G B D d2  | [D2A2d2] ^F A D ^f D e | [E,2G2] B D B g B e | E2 B2 [gb] G e2 | [=F,2=F2A2c2] C =F G C c a | C [CG] c d G e2 c | 
+D [DA] z A g D g A | [D^f] A e D d2 z2 |
+ %Repeat
+[G2B2d2] D G B D d2  | [D2A2d2] ^F A D ^f D e | [E,2G2] B D B g B e | E2 B2 [gb] G e2 | [=F,2=F2A2c2] C =F G C c a | C [CG] c d G e2 c | 
+D [DA] z A g D g A | [D^f] A e D d2 z2 |
+ %End Repeat
+[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | 
+[E2G2B2] E E E, [E2G2B2] [GEB] | [DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 | 
+ %pg2 (bar 24)
+[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | [Dd^f] [DA] d e A d ^F2 |
+ %Repeat
+[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | 
+[E2G2B2] E E E, [E2G2B2] [GEB] | [DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 | 
+ % (bar19 pg1 line2 measure3)
+[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | [Dd^f] [DA] d e A d ^F2 |
+ %End Repeat 
+[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | 
+[E2G2B2] E E E, [E2G2B2] [GEB] | [DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 | 
+[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | 
+ %pg3
+[Dd^f] [DA] d e A d ^F2 | [G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | 
+[E2G2B2] E E E, [E2G2B2] [GEB] | [DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 |
+[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | [Dd^f] [DA] d e A d ^F2 | 
+ %pg4 line1 measure1
+[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | [E2G2B2] E E E, [E2G2B2] [GEB] | [DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 | 
+[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | [Dd^f] [DA] d e A d ^F2 | 
+ %pg4 line3 measure1 
+%[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | [E2G2B2] E E E, [E2G2B2] [GEB] | 
+%[DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 | 
+%[C2G2c2e2] z [c/e/] [C/G/] [ce] [CG] [c2e2] | [D3A3d3g3] [dg] A [d2g2] A | [Dd^f] [DA] d e A d ^F2 |  
+%[G,2G2B2d2] G G, [Bd] G2 D | [D2^F2A2d2] ^F [Ad] D [Ad^f] D G | [E2G2B2] E E E, [E2G2B2] [GEB] | 
+%[DGB] E,2 [E2G2B2] E [E2G2B2] | [=F,2=F2A2c2] =FC c [cA] F2 |
+[G,2G2B2d2] G D d [Bd] G D | [D2^F2A2d2] z [A/D/] [A/D/] D [Ad^f] D G | [E2G2B2] E E E, [E2G2B2] [GEB] | 
+[DGB] E,2 [E2G2B2] E [E2G2B2] | 
+[=F,2=F2A2c2] =F [=F/A/C/] =F,/ [=FAc] =F, [=F2A2c2] | [CG] [ce] [CG] c [CG] [ce] [c2e2] | [DA] A [Ad] [DAd] [DAd] [DAd] z3/2 D/ | [Ad] D [DAd] [DAd] [D/A/d/] z/ [DAd] [DAd] [DAd]
+ % (bar143 pg5 line2 measure3)
+=F, [C2=F2] [C2=F2] [C=F] F, [C=F] | 
+C [G2c2] [Gc] C [Gc] C [Gc] | D, [A2D2] [A2D2] [AD] D, [AD] | D, [AD] D, [AD] D, [A2D2] [AD] |
+=F, [C2=F2] [C2=F2] =F, [C2=F2] | D, [A2D2] [A2D2] [AD] D, [AD] | D, [A2D2] [AD] D, [A2D2] [AD] |
+ % (bar150 pg6 line2 measure1)
+D, [A2D2] [AD] D, [AD] D, [AD] | =F, [C2=F2] [C2=F2] [C=F] F, [C=F] | C [G2c2] [Gc] C [Gc] C [Gc] |
+D, [A2D2] [A2D2] [AD] D, [AD] | D, [AD] D, [AD] D, [A2D2] [AD] | =F, [C2=F2] [C2=F2] F, [C2=F2] |
+ % (bar156 pg7 line1 measure1)
+C [G2c2] [Gc] C [Gc] C [Gc] | D, [A2D2] [A2D2] [AD] D, [AD] | D, [AD] D, [AD] D, [A2D2] [AD] |
+ % pg7 line2 measure1
+ % Speed change (~bar167 solo)
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] | [G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 |
+ %pg8 line1 measure1
+C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+ %solo start SOLO 1
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+ % Solo 2
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+ % solo 3
+=f3/2 =f3 e3/4 d3/4 | e3/4 d3/4 =f3/2 =f3 d3/4 | d3/4 =f3/8 d3/8 c3/4 =f3/8 d3/8 c3/4 =f3/8 d3/8 c3/4 =f3/8 d3/8 | c3/4 =f3/8 d3/8 c3/4 =f3/8 d3/8 c3/4 =f3/8 d3/8 c3/4=f3/8 d3/8 | 
+ % bar171
+c3/8=f3/8d3/8c3/8 =f3/8d3/8c3/8=f3/8 d3/8c3/8=f3/8d3/8 c3/8=f3/8d3/8c3/8 | =f3/8d3/8c3/8=f3/8 d3/8c3/8=f3/8d3/8 c3/8=f3/8d3/8c3/8 d3/8 =f3/8 d3/8- | d3/8 c3/8 =f3/8 c3/8 z3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8 =f3/8 d3/8c3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8 =f3/8d3/8c3/8  
+[G,3/2G3/2] [_B,3/2_B3/2] [C3/2c3/2] [D3/2d3/2] | [D3/4d3/4] [=F3/2=f3/2] [G3/2g3/2] [A3/2a3/2] [_B3/4_b3/4] | _B3/8D3/8=F3/8G3/8 D3/8=F3/8G3/8D3/8 _B3/8G3/8D3/8=F3/8 G3/8D3/8=F3/8_B3/8 | G3/8=F3/8D3/8G3/8 =F3/8D3/8G3/8_B3/8 G3/8D3/8=F3/8G3/8 D3/8=F3/8G3/8=F3/8 | _B3/8G3/8=F3/8D3/8 G3/8=F3/8D3/8_B3/8 G3/8=F3/8D3/8G3/8 =F3/8D3/8_B3/8G3/8 | c3/8d3/8g3/8=f3/8 d3/8c3/8d3/8=f3/8 g3/8=f3/8d3/8c3/8 d3/8g3/8=f3/8d3/8 | c3/8d3/8g3/8=f3/8 d3/8c3/8d3/8g3/8 =f3/8d3/8c3/8d3/8 g3/8=f3/8d3/8c3/8 | d3/8g3/8=f3/8d3/8 [c3/8c'3/8][B3/8b3/8][_B3/8_b3/8][A3/8a3/8][G3/8g3/8][F3/8f3/8][E3/8e3/8][D3/8d3/8][C3/8c3/8][B,3/8B3/8][A,3/8A3/8][G,3/8G3/8] |
+ % solo 5
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | C,3/2 [C,9/4G9/4E9/4] [C,3/4G3/4E3/4] G3/4 [G3/4-C3/4-E3/4-] | 
+[G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] C3/4 [G3/4C3/4E3/4] [G3/4C3/4E3/4] C,3/4 [G3/4C3/4E3/4] |
+ % solo 6
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 [G3/2B3/2D3/2] | [_B,3/2=F3/2D3/2] [_B,9/4=F9/4D9/4] _B,3/4 [=F3/4G3/4_B3/4] =F3/4 | 
+C,7/4 [C,21/8G21/8E21/8] [C,7/8G7/8E7/8] G7/8 [G7/8-C7/8-E7/8-] | [GCE] C, [GCE] C [GCE] [GCE] C, [GCE] |
+[G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 G,3/4 [G,3/2D3/2G3/2] [G,9/4D9/4G9/4] G,3/4 G,3/4

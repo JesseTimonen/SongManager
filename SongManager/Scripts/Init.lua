@@ -3,10 +3,17 @@ pluginName = "Song Manager";
 
 -- File names --
 settingsFileName = "Song_Manager_Settings";
-songLibraryFileName = "Song_Manager_Library";
+luteSongLibraryFileName = "Song_Manager_Lute_Library";
+clarinetSongLibraryFileName = "Song_Manager_Clarinet_Library";
+fiddleSongLibraryFileName = "Song_Manager_Fiddle_Library";
+harpSongLibraryFileName = "Song_Manager_Harp_Library";
 
 -- Song library --
-songLibrary = {};
+luteSongLibrary = {};
+clarinetSongLibrary = {};
+fiddleSongLibrary = {};
+harpSongLibrary = {};
+sortedSongLibrary = {};
 
 -- Default settings --
 settings = {
@@ -30,7 +37,3 @@ color = {
     red = Turbine.UI.Color(1, 0, 0),
     green = Turbine.UI.Color(0, 1, 0),
 };
-
--- Load settings and song library --
-loadSettings();
-loadSongLibrary();

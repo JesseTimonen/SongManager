@@ -1,8 +1,6 @@
--- Import Lotro librarys --
+-- Import Lotro libraries --
 import "Turbine";
-import "Turbine.UI";
 import "Turbine.UI.Lotro";
-import "Turbine.Gameplay";
 
 -- Import utility scripts --
 import "SongManager.Scripts.Utility.Class";
@@ -18,10 +16,13 @@ import "SongManager.Scripts.Activation";
 
 -- Import UI components --
 import "SongManager.Scripts.UI.AddSongWindow";
-import "SongManager.Scripts.UI.RemoveSongWindow";
+import "SongManager.Scripts.UI.RemoveLuteSongWindow";
+import "SongManager.Scripts.UI.RemoveFiddleSongWindow";
+import "SongManager.Scripts.UI.RemoveClarinetSongWindow";
+import "SongManager.Scripts.UI.RemoveharpSongWindow";
 import "SongManager.Scripts.UI.Renderer";
 
--- Import main scripts --
+-- Import main functionality --
 import "SongManager.Scripts.Main";
 
 -- Import commands --
