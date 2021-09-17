@@ -125,7 +125,7 @@ toggleInstrumentQuickslot:SetSize(35,20);
 toggleInstrumentQuickslot:SetPosition(160, 46);
 toggleInstrumentQuickslot:SetZOrder(1);
 toggleInstrumentQuickslot:SetUseOnRightClick(false);
-toggleInstrumentQuickslot:SetVisible(false);
+toggleInstrumentQuickslot:SetVisible(true);
 	
 toggleInstrumentButton = Turbine.UI.Control();
 toggleInstrumentButton:SetParent(mainWindow);
@@ -158,7 +158,7 @@ playSongQuickslot:SetSize(35,20);
 playSongQuickslot:SetPosition(365, 46);
 playSongQuickslot:SetZOrder(1);
 playSongQuickslot:SetUseOnRightClick(false);
-playSongQuickslot:SetVisible(false);
+playSongQuickslot:SetVisible(true);
 	
 playSongButton = Turbine.UI.Control();
 playSongButton:SetParent(mainWindow);
