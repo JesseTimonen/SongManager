@@ -1,0 +1,65 @@
+%abc-2.1
+%%song-title       LastFridayNight
+%%song-duration    1:27
+%%song-transcriber Perric
+%%abc-creator Maestro v2.4.1
+%%abc-version 2.1
+
+X: 1
+T: LastFridayNight (1:27) - Lute of Ages
+%%part-name Lute of Ages
+Z: Perric
+M: 4/4
+Q: 120
+K: C maj
+
++f+ [B,^F] [B,-F-] [B,F] [B,F] [B,F] [B,-F-] [B,F] [B,F] |
+[^G,^D] [G,-D-] [G,D] [G,D] [G,D] [G,-D-] [G,D] [G,D] |
+[^D^A] [D-A-] [DA] [DA] [DA] [D-A-] [DA] [DA] |
+[^C^G] [C-G-] [CG] [CG] [CG] [C-G-] [CG^f] [CG^d] |
+[B,^F^f] [B,-F-^d] [B,Ff] [B,/-F/-f/] [B,/F/d/-] [B,Fd-] [B,-F-d] [B,Ff] [B,Fd] |
+[^G,^D^f] [G,-D-^d] [G,Df] [G,/-D/-f/] [G,/D/d/-] [G,Dd-] [G,-D-d] [G,Df] [G,Dd] |
+[^D^A^f] [D-A-^d] [DAf] [D/-A/-f/] [D/A/d/-] [DAd-] [D-A-d] [DAf] [DAd] |
+[^C^G^f] [C-G-^d] [CGf] [C/-G/-f/] [C/G/^g/-] [CGg-] [C-G-g] [CGf] [CGd] |
+[B,^F^f] [B,-F-^d] [B,Ff] [B,/-F/-f/] [B,/F/d/-] [B,Fd-] [B,-F-d] [B,Ff] [B,Fd] |
+% Bar 10 (0:18)
+[^G,^D^f] [G,-D-^d] [G,Df] [G,/-D/-f/] [G,/D/d/-] [G,Dd-] [G,-D-d] [G,Df] [G,Dd] |
+[^D^A^f] [D-A-^d] [DAf] [D/-A/-f/] [D/A/d/-] [DAd-] [D-A-d] [DAf] [DAd] |
+[^C^G^f] [C-G-^d] [CGf] [C/-G/-f/] [C/G/^g/-] [CGg-] [C-G-g] [CG^a] [CGb] |
+[B,^F^c-] [B,-F-c] [B,Fc-] [B,Fc] [B,Fc-] [B,-F-c] [B,F^a] [B,Fb] |
+[^G,^D^c-] [G,-D-c] [G,Dc-] [G,Dc] [G,Dc-] [G,-D-c] [G,D^d] [G,Dc-] |
+[^D^A^c] [D-A-^a-] [DAa-] [DAa-] [DAa-] [D-A-a] [DAc] [DA^g-] |
+[^C^G^g-] [C-G-g-] [CGg-] [CGg-] [CGg-] [C-G-g] [CG^a] [CGb] |
+[B,^F^c-] [B,-F-c] [B,Fc-] [B,Fc] [B,Fc-] [B,-F-c] [B,F^a] [B,Fb] |
+[^G,^D^c-] [G,-D-c] [G,Dc-] [G,Dc] [G,Dc-] [G,-D-c] [G,D^d] [G,Dc-] |
+[^D^A^c] [D-A-^a-] [DAa-] [DAa-] [DAa-] [D-A-a] [DA] [DA] |
+% Bar 20 (0:38)
+[^C2-^G2-] [C2-G2-^a2] [C-G-^g] [C-G-^f-] [C-G-f] [CGf] |
+[B,^D^F] [B,-D-F-] [B,DF^a] [B,DFa] [B,DFa] [B,-D-F-^g] [B,DFg] [B,DF^f] |
+[^G,B,^D^f] [G,-B,-D-] [G,B,D^a] [G,B,Da] [G,B,Da] [G,-B,-D-^g] [G,B,Dg] [G,B,Df] |
+[^D^F^A^f] [D-F-A-] [DFA^a] [DFAa] [DFAa] [D-F-A-^g] [DFAg] [DFAf] |
+[^CF^G^g-] [C-F-G-g] [CFG^a-] [CFGa] [CFGg] [C-F-G-^f-] [CFGf] [CFGf] |
+[B,^D^F] [B,-D-F-] [B,DF^a] [B,DFa] [B,DFa] [B,-D-F-^g] [B,DFg] [B,DF^f] |
+[^G,B,^D^f] [G,-B,-D-] [G,B,D^a] [G,B,Da] [G,B,Da] [G,-B,-D-^g] [G,B,Dg] [G,B,Df] |
+[^D^F^A^f] [D-F-A-] [DFA^a] [DFAa] [DFAa] [D-F-A-^g] [DFAg] [DFAf] |
+[^CF^G^g-] [C-F-G-g] [CFG^a-] [CFGa] [CFGg] [C-F-G-^f-] [CFGf] [CFGf] |
+[B,^D^F] [B,-D-F-] [B,DF^a] [B,DFa] [B,DFa] [B,-D-F-^g] [B,DFg] [B,DF^f] |
+% Bar 30 (0:58)
+[^G,B,^D^f] [G,-B,-D-] [G,B,D^a] [G,B,Da] [G,B,Da] [G,-B,-D-^g] [G,B,Dg] [G,B,Df] |
+[^D^F^A^f] [D-F-A-] [DFA^a] [DFAa] [DFAa] [D-F-A-^g] [DFAg] [DFAf] |
+[^CF^G^g-] [C-F-G-g] [CFG^a-] [CFGa] [CFGg] [C-F-G-^f-] [CFGf] [CFGf] |
+[B,^D^F] [B,-D-F-] [B,DF^a] [B,DFa] [B,DFa] [B,-D-F-^g] [B,DFg] [B,DF^f] |
+[^G,B,^D^f] [G,-B,-D-] [G,B,D^a] [G,B,Da] [G,B,Da] [G,-B,-D-^g] [G,B,Dg] [G,B,Df] |
+[^D^F^A^f] [D-F-A-] [DFAf-] [DFAf-] [DFAf] [D-F-A-^c] [DFA^a] [DFA^g-] |
+[^CF^G^g] [C-F-G-^c] [CFG^a-] [CFGa] [CFGg] [C-F-G-^f-] [CFGf] [CFGf-] |
+[B,^D^F^f-] [B,-D-F-f-] [B,DFf-] [B,DFf] [B,DF] [B,-D-F-f] [B,DFf] [B,DF^c-] |
+[^G,B,^D^c-] [G,-B,-D-c-] [G,B,Dc-] [G,B,Dc] [G,B,D] [G,-B,-D-] [G,B,D^d] [G,B,D^a-] |
+[^D^F^A^a-] [D-F-A-a] [DFA] [DFA] [DFA] [D-F-A-] [DFA] [DFA] |
+% Bar 40 (1:18)
+[^CF^G] [C-F-G-] [CFG^a-] [CFGa] [CFG^g] [C-F-G-^f-] [CFGf] [CFGf-] |
+[B,^D^F^f-] [B,-D-F-f-] [B,DFf-] [B,DFf] [B,DF] [B,-D-F-f] [B,DFf] [B,DF^c-] |
+[^G,B,^D^c-] [G,-B,-D-c-] [G,B,Dc-] [G,B,Dc] [G,B,D] [G,-B,-D-] [G,B,D^d] [G,B,D^a-] |
+[^D^F^A^a-] [D-F-A-a] [DFA] [DFA] [DFA] [D-F-A-] [DFA] [DFA] |
+[^C8F8^G8] |
+z8 |]
+

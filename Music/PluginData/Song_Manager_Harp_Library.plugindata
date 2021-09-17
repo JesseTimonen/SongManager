@@ -1,0 +1,5 @@
+return 
+{
+	["Mad World"] = "mad_world",
+	["All Stars"] = "all_stars"
+}

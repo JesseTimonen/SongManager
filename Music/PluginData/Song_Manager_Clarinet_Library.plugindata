@@ -1,0 +1,11 @@
+return 
+{
+	["Mario Overworld"] = "mario_2",
+	["Ducktales"] = "ducktales",
+	["Zelda Dungeon"] = "zelda_2",
+	["Gollum's Song"] = "gollums_song",
+	["Harry Potter"] = "harry_potter",
+	["Simpsons"] = "simpsons",
+	["Zelda Overworld"] = "zelda",
+	["Barbie Girl"] = "barbie_girl"
+}

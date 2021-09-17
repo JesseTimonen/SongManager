@@ -1,0 +1,11 @@
+return 
+{
+	["Phantom of the Opera"] = "phantom_of_the_opera",
+	["Country Roads"] = "country_roads_fiddle",
+	["Mission Impossible"] = "mission_impossible",
+	["Billie Jean"] = "billie_jean",
+	["Family Guy"] = "family_guy",
+	["Flight of the Bumblebee"] = "flight_of_the_bumblebee",
+	["God Father"] = "god_father",
+	["Shape of you"] = "shape_of_you_fiddle"
+}

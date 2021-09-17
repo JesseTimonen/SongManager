@@ -1,0 +1,58 @@
+X:1
+T:The James Bond Theme (original key G)
+C:Monty Norman
+Z:Hoho windfola server
+M:4/4
+L:1/8
+Q:100 =1/4
+K:Eb
+
+C,/5G2 E/5C8/5 C,/5A2 E/5C8/5 | C,/5=A2 E/5C8/5 C,/5A2 E/5C8/5 |
+C,/5G2 E/5C8/5 C,/5A2 E/5C8/5 | C,/5=A2 E/5C8/5 C,/5A2 E/5C8/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 |
+=A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 | C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d c4/5 |
+G,/5=b b/5g4/5 C,2 A,9/5 C,/5g/5e4/5 f/5d3/5 | =A,/5g/5e9/5 C,2 A,2
+C,9/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 |
+=A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d c4/5 | G,/5=b b/5g4/5 C,2 A,9/5
+C,/5g/5e4/5 f/5d3/5 |
+=A,/5g/5e9/5 C,2 A,2 C,9/5 | C,/5G2 E/5C8/5 C,/5A2 E/5C8/5 |
+C,/5=A2 E/5C8/5 C,/5A2 E/5C8/5 | C,/5G2 E/5C8/5 C,/5A2 E/5C8/5 |
+C,/5=A2 E/5C8/5 C,/5A2 E/5C8/5 |
+%
+C,/5c e/5c4/5 E, =b4/5 G,/5b/5g/5e8/5 E, e4/5 | C,/5^f/5d4/5 g/5e4/5
+D,2 E,2 G,9/5 |
+C,/5e6/4 f/4e/4 d/5E,9/5 G, G4/5 E,/5c =A |
+C, d/5G/5E3/5 E,9/5 G,/5d/5G/5E8/5 G,9/5 | C,/5c e/5c4/5 E, =b4/5
+G,/5b/5g/5e8/5 E, e4/5 |
+C,/5^f/5d4/5 g/5e4/5 D,2 E,2 G,9/5 | C,/5e6/4 f/4e/4 d/5E,9/5 G,
+G4/5 E,/5=B c |
+C, =A/5G/5E3/5 E,9/5 G,/5=A/5G/5E8/5 E,9/5 |
+%repeat
+C,/5c e/5c4/5 E, =b4/5 G,/5b/5g/5e8/5 E, e4/5 | C,/5^f/5d4/5 g/5e4/5
+D,2 E,2 G,9/5 |
+C,/5e6/4 f/4e/4 d/5E,9/5 G, G4/5 E,/5c =A |
+C, d/5G/5E3/5 E,9/5 G,/5d/5G/5E8/5 G,9/5 | C,/5c e/5c4/5 E, =b4/5
+G,/5b/5g/5e8/5 E, e4/5 |
+C,/5^f/5d4/5 g/5e4/5 D,2 E,2 G,9/5 | C,/5e6/4 f/4e/4 d/5E,9/5 G,
+G4/5 E,/5=B c |
+C, =A/5G/5E3/5 E,9/5 G,/5=A/5G/5E8/5 E,9/5 |
+%
+C,/5c/5G/5E3/5 c/5G/5E3/5 E, c/5G/5E2/5 G,/5d/5=B/5F11/10 c3/10
+G,/5d/5=B/5F7/5 | C,/5e/5c/5G,3/5 e/5c/5G,3/5 E, e/5c/5G,2/5 G,/5d/5=B/5F11/10 c3/10 G,/5d/5=B/5F7/5 |
+C,/5c/5G/5E3/5 c/5G/5E3/5 E, c/5G/5E2/5 G,/5d/5=B/5F11/10 c3/10
+G,/5d/5=B/5F7/5 | C,/5e/5c/5G,3/5 e/5c/5G,3/5 E, e/5c/5G,2/5 G,/5d/5=B/5F11/10 c3/10 G,/5d/5=B/5F7/5 |
+C,/5g/5e/5c/5=A2/5 g/5e/5c/5=A2/5 z G,3 g/5e/5c/5=A2/5 g/5e/5c/5=A2/5| 
+z G,14/5 =A/5g/5c3/10 g g/2 g4/5 C,/5g/5e/5c/5=A/5G,11/5 | C,2 A,2
+C,2 |
+=A,2 C,2 A2 C,9/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 |
+C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 |
+=A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d d4/5 | C,/5c/5G,4/5 d/2 d3/10 C,/5d d A, c4/5 C,/5c c4/5 | =A,/5c e/2 e3/10 C,/5e e A d4/5 C,/5d c4/5 | G,/5=b b/5g4/5 C,2 A,9/5
+C,/5g/5e4/5 f/5d3/5 |
+=A,/5g/5e9/5 C,2 A,2 C,9/5 | C,/5C/5G,4/5 E2 =B B9/5 C,/5E/5G,4/5 G2|
+d _d9/5 C,/5G/5G,4/5 B ^f | f9/5 C,/5_d/5G,4/5 f3 =b b2 |
+z14/5 C,/5d/5=A/5G/5E/5G,26/5
